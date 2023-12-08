@@ -17,3 +17,7 @@ Here is an another example of a forked repository
 ## Something to create a conflict maybe
 
 I wonder if this will trigger a conflict
+
+## Features
+
+Adding a feature to this repo
